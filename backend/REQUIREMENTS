@@ -1,0 +1,4 @@
+This python backend requires the following python modules:
+
+pySerial: http://pyserial.sourceforge.net
+
